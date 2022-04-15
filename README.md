@@ -12,4 +12,5 @@
 * Fire Arm Seizures: [https://data.wprdc.org/dataset/pbp-fire-arm-seizures]
 * Allegheny County Fatal Accidental Overdoses: [https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses]
 
-**This repository will discover what the best neighborhood in Pittsburgh is, through an analysis of different sets of data.**
+**Our goal was to find the "best" neighborhood in Pittsburgh using an overarching metric of Safety. For each of our datasets, we analyzed based off this idea and created
+our own sub metrics that we eventually combined into one, equally weighing each other.**
